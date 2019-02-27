@@ -1,0 +1,12 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is AC53-8FD9
+
+ Directory of C:\Users\Lenovo\Desktop\siriproject
+
+02/28/2019  12:58 AM    <DIR>          .
+02/28/2019  12:58 AM    <DIR>          ..
+02/27/2019  07:01 PM                21 index.html
+02/27/2019  07:01 PM                 9 test.txt
+02/28/2019  12:58 AM                 0 test2.txt
+               3 File(s)             30 bytes
+               2 Dir(s)  67,785,842,688 bytes free
